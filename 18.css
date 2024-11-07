@@ -1,0 +1,13 @@
+ul{
+    float: inline-start;
+    background-color: blueviolet;
+}
+ul:hover{
+    background-color: bisque;
+}
+li{
+    float: left;
+     width: 70px;
+}
+
+
